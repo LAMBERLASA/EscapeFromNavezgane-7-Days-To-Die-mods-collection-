@@ -1,6 +1,13 @@
 # EscapeFromNavezgane-7-Days-To-Die-mods-collection-
+
+![MainPhoto](5395517808105427389.jpg)
+
 !!! MANUAL INSTALLATION!!! Building mods to deepen the game's atmosphere and preserve its original concept, please make sure to read the readme
-DOWNLOAD (GoogleDrive) - 
+
+
+==== DOWNLOAD / УСТАНОВИТЬ (GoogleDrive) - https://drive.google.com/file/d/1t-Q53IqXzXkBEVNMHezlN9ZvmfXEVaaJ/view?usp=drive_link ====
+
+
 !Scroll down to English localization!
 ГАЙД ПО УСТАНОВКЕ СБОРКИ
 
@@ -119,3 +126,10 @@ If you encounter bugs, inconsistencies, or stability issues, please report them.
 === ADDITIONAL NOTES ===  
 The pack has been tested for over 40 hours with no crashes observed. You are free to modify the modpack—adding or removing mods according to your preferences.  
 For questions, bug reports, or feedback, contact: maksimus555ver@gmail.com
+
+![2photo](5395517808105427388.jpg)
+![3photo](5395517808105427390.jpg)
+![4photo](5395517808105427393.jpg)
+![5photo](5395517808105427394.jpg)
+![6photo](5395517808105427395.jpg)
+![7photo](5395517808105427396.jpg)
