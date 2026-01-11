@@ -16,6 +16,7 @@
 тестированием, совмещением и настройкой существующих проектов для создания целостного игрового опыта.  
 Если вам понравился какой-либо мод, настоятельно рекомендуется найти его оригинальную страницу (на 7DTD Mod Launcher, GitHub, Reddit или других платформах) и, при возможности, 
 поддержать автора отзывом, звёздочкой или донатом. Уважение к труду создателей — основа здорового моддинг-сообщества.
+Вся музыка - используемая в игре - также защищена авторским правом, пожалуйста, учитывайте это при записи видео с музыкой из игры
 
 Версия игры: A21.4 (2.4)  
 Сборка предназначена для мощных компьютеров. На слабых конфигурациях возможны просадки FPS, зависания и нестабильная работа.
@@ -74,6 +75,7 @@ My role is limited to selection, testing, integration, and configuration of exis
 If you enjoy a particular mod, please locate its original source 
 (typically on 7DTD Mod Launcher, GitHub, Reddit, or the author’s personal page) and consider supporting the developer through feedback, ratings, or donations if available. 
 Respecting creators’ work is essential to maintaining a healthy modding community.
+All music used in the game is also copyrighted, please keep this in mind when recording videos with music from the game
 
 === INSTALLATION GUIDE FOR THE MODPACK ===
 
